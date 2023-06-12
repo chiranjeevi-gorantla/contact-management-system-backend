@@ -1,2 +1,2 @@
 # contact-management-system-backend
- Java, Spring boot
+ Java, Spring Boot
